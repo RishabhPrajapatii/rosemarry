@@ -1,13 +1,71 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.nav-li-a {
+  font-size: 0.875rem;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  cursor: pointer;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Header {
+  background-color: #132f57;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  height: "18vh";
 }
+.font {
+  /* font-size: "3.75rem"!important; */
+  color: red;
+  font-family: ui-serif, Georgia, Cambria, Times New Roman, Times, serif;
+}
+
+.welcomeboxhead {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  cursor: pointer;
+}
+
+.welcomeboxpara {
+  line-height: 2.5rem;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  cursor: pointer;
+}
+
+.ReadMe {
+  border: 1px solid #afc5ea;
+  border-radius: 0px;
+  font-size: 0.875rem;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  cursor: pointer;
+}
+.schoolbgcolor {
+  background-color: #004aff33;
+  /* color: "#004aff33"; */
+}
+
+.contact {
+  border: 1px solid #afc5ea;
+  border-radius: 0px;
+}
+.conphotbox {
+  background-color: #0eddd333;
+}
+
+.cardbg {
+  background-color: rgb(42, 42, 138);
+}
+/* .cardimg {
+  aspect-ratio: "3/2";
+  object-fit: contain;
+} */
+
+.cardfont{
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+ 
+
+}
+
+.cardfont{
+  font-size: .9rem;
+  line-height: 1rem;
+  font-family: "Helvetica Neue,Helvetica, Arial, sans-serif";
+  cursor: pointer;
+}
+
